@@ -136,7 +136,7 @@ PlayerSettings:
   vulkanEnableLateAcquireNextImage: 0
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
-  bundleVersion: 0.107
+  bundleVersion: 0.109
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -769,10 +769,10 @@ PlayerSettings:
   webGLDebugSymbols: 0
   webGLEmscriptenArgs: 
   webGLModulesDirectory: 
-  webGLTemplate: PROJECT:Yandex
+  webGLTemplate: PROJECT:Crazy_2020
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
-  webGLCompressionFormat: 2
+  webGLCompressionFormat: 0
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
@@ -785,7 +785,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    WebGL: UNITASK_DOTWEEN_SUPPORT;ANALYTICS;RELEASE;YANDEX
+    WebGL: UNITASK_DOTWEEN_SUPPORT;ANALYTICS;RELEASE;CRAZY
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
